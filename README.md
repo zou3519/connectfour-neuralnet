@@ -48,6 +48,7 @@ Technical Specifications
 
 
 ###Neural Network Classes: Package NeuralNet
+
 ####Neuron
 Will record the number of inputs into the neuron and an array of weights for each of the inputs.
 
@@ -59,6 +60,7 @@ Represents the entire network.  Will store each layer of neurons.  Will
 also be able to replace all of the weights between the connections of neurons.  Finally, will also be able to compute the output given a set of inputs to the network.
 
 ###Genetic Algorithm Classes: Package Genetic
+
 ####Genome
 Represents the genes of an AI. Will contain the methods for two genomes to interact and produce a new genome.
 
@@ -68,18 +70,18 @@ Will create new Genomes and then pick the most fit ones. Will create a new gener
 ###Connect four classes: Package Connect
 
 ####Board
-	Represents the Connect Four board
+Represents the Connect Four board
 	
 ####Game
-	Controls the game sequence between 2 players, AI or human
+Controls the game sequence between 2 players, AI or human
 ####Move
-	Represents a “move” in the connect four game.  A move
-	is a (player, position) pair.
+Represents a “move” in the connect four game.  A move
+is a (player, position) pair.
 ####Player
-	The abstract class for Human and NeuralNetAI
+The abstract class for Human and NeuralNetAI
 ####Human
-	A class for human interaction with the game
+A class for human interaction with the game
 ####NeuralNetAI
-	The AI based on the neural network
+The AI based on the neural network
 ####ConnectGenome
-	The Connect Four genome.  Extends Genetic.Genome.
+The Connect Four genome.  Extends Genetic.Genome.
