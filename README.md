@@ -1,5 +1,4 @@
-Machine Learning: 
-A Darwinian Approach to Playing Connect Four
+Machine Learning: A Darwinian Approach to Playing Connect Four
 =====================
 By Aaron Shotkin and Richard Zou
 
