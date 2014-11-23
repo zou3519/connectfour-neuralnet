@@ -2,7 +2,8 @@ Machine Learning:
 A Darwinian Approach to Playing Connect Four
 =====================
 By Aaron Shotkin and Richard Zou
-Completed May 2014
+
+Initial project completed May 2014, future work possible
 
 Introduction
 --------------------
